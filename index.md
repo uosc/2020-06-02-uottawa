@@ -10,7 +10,7 @@ humandate: "June 2–4, 2020"    # human-readable dates for the workshop (e.g., 
 humantime: "9:00 am – 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-06-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-06-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Darren Boss", "Karen Cranston", "Fabrizio Donzelli", "Andrew Schoenrock", "Jarno van der Kolk"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Darren Boss", "Karen Cranston", "Fabrizio Donzelli", "François Lapointe", "Andrew Schoenrock", "Jarno van der Kolk"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Louis-Joseph Adou"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jvanderk@uottawa.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 cost: "$50"
